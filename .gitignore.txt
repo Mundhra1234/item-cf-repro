@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (large)
+data/ml-100k/
+!data/ml-100k/README
+
+# Results (generated)
+results/figures/
+results/tables/
+
+# OS junk
+.DS_Store
+Thumbs.db
