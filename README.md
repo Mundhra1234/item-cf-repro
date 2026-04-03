@@ -116,6 +116,9 @@ Evaluation (MAE)
 | Adjusted Cosine | **0.7561** |
 | Cosine          | 0.8052     |
 | Pearson         | 0.8051     |
+##  1. Similarity Comparison
+
+![Similarity metrics Comparison](results/figures/similarity_metrics comparison.png)
 
 ###  Observation:
 
