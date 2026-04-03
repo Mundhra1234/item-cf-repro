@@ -117,7 +117,7 @@ Evaluation (MAE)
 | Pearson         | 0.8051     |
 ##  1. Similarity Comparison
 
-![Similarity Metrics](results/figures/similarity metrics comparisons.png)
+![Similarity Metrics](results/figures/similarity%20metrics%20comparisons.png)
 
 ###  Observation:
 
