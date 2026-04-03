@@ -1,4 +1,4 @@
-#  Item-Based Collaborative Filtering — Research Reproduction (MovieLens 100K)
+#  Item-Based Collaborative Filtering  (MovieLens 100K)
 
 This repository presents a **complete reproduction of Item-Based Collaborative Filtering experiments** using the MovieLens 100K dataset, inspired by classical recommender system research (Sarwar et al., 2001).
 
